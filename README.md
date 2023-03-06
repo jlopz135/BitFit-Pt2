@@ -1,4 +1,4 @@
-# Android Project 6 - *NewBitFit*
+# Android Project 6 - *BitFit-Pt2*
 
 Submitted by: **Juan Lopez**
 
