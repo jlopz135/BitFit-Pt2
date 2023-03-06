@@ -7,9 +7,6 @@ import android.os.Bundle
 import android.text.TextUtils
 import android.widget.Button
 import android.widget.EditText
-import androidx.lifecycle.lifecycleScope
-import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.launch
 
 class AddFoodActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
