@@ -1,10 +1,10 @@
 # Android Project 6 - *NewBitFit*
 
-Submitted by: **Phi Nguyen*
+Submitted by: **Juan Lopez**
 
 **NewBitFit** is a health metrics app that allows users to track daily consumming food, and show the accumulated calories.
 
-Time spent: **8** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
